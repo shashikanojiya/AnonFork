@@ -1,7 +1,7 @@
 # Copyright (C) 2021-2022 by DemusIndonesia@Github, < https://github.com/Jankarikiduniya >.
 # A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
 
-# Kanged By © @Dr_Asad_Ali
+# Kanged By © @MusicIndoListening
 # Rocks © @Shayri_Music_Lovers
 # Owner Asad Ali
 # Harshit Sharma

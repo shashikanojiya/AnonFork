@@ -263,7 +263,7 @@ bash start
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
+- [ᴀsᴀᴅ ᴀʟɪ](https://t.me/MusicIndoListening)
 - [ʟᴏɢɪ ʟᴀʙ](https://github.com/LOGI-LAB)
 - [ʜᴀʀsʜɪᴛ](https://t.me/HarshitSharma361)
 - [ᴋsᴋ](https://github.com/KSKOP69) - For upgrading Alexa to Pyrogram latest version.
